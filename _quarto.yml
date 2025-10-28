@@ -20,17 +20,20 @@ website:
     tools: 
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/lizbeth-amador-935412280
+      href: https://www.linkedin.com/in/lizbeth-amador-935412280
+      target: _blank
     # - favicon: path/icon.svg #icon for website tab 
     - favicon: ./images/orcid_reversed.png
       text: ORCID
       href: https://orcid.org/0009-0002-7238-1247 
+      target: _blank
     - icon: github
       text: Github
       href: https://github.com/lgamador
+      target: _blank
     - icon: envelope-at
       text: Email
-      href: mailto::lamador0213@gmail.com
+      href: mailto:lamador0213@gmail.com
   page-footer: 
     background: dark
 

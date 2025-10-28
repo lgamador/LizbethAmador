@@ -78,22 +78,28 @@ background-size: cover;
   background-position-y: center;
   height: 200px;
 }
+
 /* Background box behind title text */
-.quarto-title .title,
-.quarto-title .subtitle {
-  display: inline-block;
-  background-color: rgba(255, 255, 255, 0.6); /* translucent white */
-  padding: 0.25em 0.6em;
-  border-radius: 4px;
-}
-/* Title halo style */
 .quarto-title .title {
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 0.15em 0.6em;
+  border-radius: 4px;
   color: black;
-  text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.8); /* white glow */
+  text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.8);
 }
+
 .quarto-title .subtitle {
+  display: block;            /* forces subtitle to new line */
+  margin-top: 0.4em;         /* spacing from title */
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 0.15em 0.6em;
+  border-radius: 4px;
   color: black;
+  /* Control width + center */
+  max-width: max-content;   /* shrink-wrap to text */
 }
+
 .bottom-banner {
   background-image: url('images/wetland_sunkhaze-complex_banner.jpg');
   background-size: cover;
@@ -151,10 +157,10 @@ background-size: cover;
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools tools-wide">
-    <a href="./www.linkedin.com/in/lizbeth-amador-935412280" title="LinkedIn" class="quarto-navigation-tool px-1" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
-    <a href="https://orcid.org/0009-0002-7238-1247" title="ORCID" class="quarto-navigation-tool px-1" aria-label="ORCID"><i class="bi bi-"></i></a>
-    <a href="https://github.com/lgamador" title="Github" class="quarto-navigation-tool px-1" aria-label="Github"><i class="bi bi-github"></i></a>
-    <a href="mailto::lamador0213@gmail.com" title="Email" class="quarto-navigation-tool px-1" aria-label="Email"><i class="bi bi-envelope-at"></i></a>
+    <a href="https://www.linkedin.com/in/lizbeth-amador-935412280" title="LinkedIn" class="quarto-navigation-tool px-1" aria-label="LinkedIn" target="_blank"><i class="bi bi-linkedin"></i></a>
+    <a href="https://orcid.org/0009-0002-7238-1247" title="ORCID" class="quarto-navigation-tool px-1" aria-label="ORCID" target="_blank"><i class="bi bi-"></i></a>
+    <a href="https://github.com/lgamador" title="Github" class="quarto-navigation-tool px-1" aria-label="Github" target="_blank"><i class="bi bi-github"></i></a>
+    <a href="mailto:lamador0213@gmail.com" title="Email" class="quarto-navigation-tool px-1" aria-label="Email"><i class="bi bi-envelope-at"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -210,22 +216,14 @@ Environmental justice is social justice. We can’t help the planet if we don’
 La justicia ambiental es la justicia social. No podemos ayudar la planeta si no podemos ayudar unos a otros.</p>
 <section id="my-community-engagement-goal" class="level3">
 <h3 class="anchored" data-anchor-id="my-community-engagement-goal">My Community Engagement Goal</h3>
-Global and regional level agencies are important to establish environmental protections and enforcement, but local communities apply these values into daily life.<br>
+<p>Global and regional level agencies are important to establish environmental protections and enforcement, but local communities apply these values into daily life.<br>
 <br>
 I aim to strengthen the bridge between ecological research and community livelihood at the local level. I am interested in taking on projects that emphasize community outreach and engagement regarding environmental issues from marine to terrestrial systems. My background in research and across different systems gives me a holistic perspective on the inter-connectedness between the environment and our local communities.<br>
-<br>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="images/mse_fullshot.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:210px; height:200px; border-radius:80%; object-fit:cover; border:1px solid #384755;"></p>
-</figure>
-</div>
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> --> <!-- ![](images/mse_fullshot.jpg){fig-align="left" style="width:210px; height:200px; border-radius:80%; object-fit:cover; border:1px solid #384755;"} --></p>
 <!-- ![](images/mse_side.jpg){fig-align="center" style="width:210px; height:200px; border-radius:80%; object-fit:cover; border:1px solid #384755;"} -->
 <!-- </div> -->
 
 
-</div>
 </section>
 
 </main> <!-- /main -->
