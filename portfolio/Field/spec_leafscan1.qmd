@@ -1,0 +1,13 @@
+---
+title: SPEC - Leaf scanning
+author: Liz
+image: ../../images/SPEC_leafscannin.jpg
+description: Field work
+categories: [Field photos]
+date: 2023-06-20
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/SPEC_leafscannin.jpg)

@@ -1,0 +1,13 @@
+---
+title: Flyer - U. Maine WFCB DEI
+author: Liz
+image: ../../images/WFCB_DEI_RedCardMakingFlyer.jpg
+description: Digital Work
+categories: [Outreach - Flyers]
+date: 2025-02-20
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/WFCB_DEI_RedCardMakingFlyer.jpg)

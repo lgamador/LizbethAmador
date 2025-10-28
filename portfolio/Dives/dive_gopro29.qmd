@@ -1,0 +1,13 @@
+---
+title: Dives - Sea Palm, Paific Grove
+author: Liz
+image: ../../images/dive_gopro_GPTempDownload.jpg
+description: Digital Work
+categories: [Dives]
+date: 2022-06-26
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/dive_gopro_GPTempDownload.jpg)

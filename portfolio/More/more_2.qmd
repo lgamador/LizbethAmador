@@ -1,0 +1,13 @@
+---
+title: Intertidal
+author: Liz
+image: ../../images/intertidal-kelp_20220715.jpg
+description: Tide pooling
+categories: [More fun photos!]
+date: 2022-07-15
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/intertidal-kelp_20220715.jpg)

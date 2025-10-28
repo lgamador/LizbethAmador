@@ -1,0 +1,13 @@
+---
+title: SPEC - Leaf sampling
+author: Liz
+image: ../../images/SPEC_leafsamplin_2.jpg
+description: Field work
+categories: [Field photos]
+date: 2023-06-22
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/SPEC_leafsamplin_2.jpg)

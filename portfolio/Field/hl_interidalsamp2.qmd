@@ -1,0 +1,13 @@
+---
+title: Haupt Lab - Intertidal sampling
+author: Liz
+image: ../../images/boulder_20220423.jpg
+description: Field work
+categories: [Field photos]
+date: 2022-04-23
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/boulder_20220423.jpg)

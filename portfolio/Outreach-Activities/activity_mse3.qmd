@@ -1,0 +1,13 @@
+---
+title: Activity - Hirundo Meet a Scientist
+author: Liz
+image: ../../images/mse_side.jpg
+description: Outreach work
+categories: [Outreach - Activities]
+date: 2025-04-26
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/mse_side.jpg)

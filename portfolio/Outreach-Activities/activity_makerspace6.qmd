@@ -1,0 +1,13 @@
+---
+title: Activity - CSUMB Makerspace Workshop
+author: Liz
+image: ../../images/makerspace6_20220505.jpg
+description: Outreach work
+categories: [Outreach - Activities]
+date: 2022-05-03
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/makerspace6_20220505.jpg)

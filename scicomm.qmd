@@ -1,0 +1,59 @@
+---
+title: "Outreach and Engagement"
+subtitle: "Science Communication"
+title-block-banner: images/wetland-ecol-feld-day.jpg
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      /* Background box behind title text */
+      .quarto-title .title,
+      .quarto-title .subtitle {
+        display: inline-block;
+        background-color: rgba(255, 255, 255, 0.6); /* translucent white */
+        padding: 0.25em 0.6em;
+        border-radius: 4px;
+      }
+      /* Title halo style */
+      .quarto-title .title {
+        color: black;
+        text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.8); /* white glow */
+      }
+      .quarto-title .subtitle {
+        color: black;
+      }
+      .bottom-banner {
+        background-image: url('images/wetland_sunkhaze-complex_banner.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 200px;
+        margin-top: 0.2em;
+      }
+      </style>
+include-after-body:
+  - text: |
+      <div class="bottom-banner"></div>
+---
+
+<p style="text-align: center;">**"Education is an act of love, and thus an act of courage" - Paulo Freire**</p>
+<p style="text-align: center;">**"Cariño \[is\] an act of rebellion and healing" - Yvette Regalado**</p>
+It is essential to establish connections and trust with local communities to foster engagement with science across various scales of research. Oftentimes, that also means for scientists to engage with the community itself.\
+\
+Community engagement with research and resource management is an important aspect of building resilient ecosystems in the face of rapid global change. In a time where growing misinformation and uncertainty create divisive atmospheres, it is important for scientists to step up and actively bridge gaps between environmental phenomena and common livelihoods. More can be done when communities are well informed and involved. These issues affect **ALL** of us -- only a few can temporarily escape the consequences of degrading ecosystem function and services.\
+\
+Environmental justice is social justice. We can't help the planet if we don't help each other.\
+La justicia ambiental es la justicia social. No podemos ayudar la planeta si no podemos ayudar unos a otros. 
+
+### My Community Engagement Goal
+Global and regional level agencies are important to establish environmental protections and enforcement, but local communities apply these values into daily life.\
+\
+I aim to strengthen the bridge between ecological research and community livelihood at the local level. I am interested in taking on projects that emphasize community outreach and engagement regarding environmental issues from marine to terrestrial systems. My background in research and across different systems gives me a holistic perspective on the inter-connectedness between the environment and our local communities.\
+\
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+![](images/mse_fullshot.jpg){fig-align="left" style="width:210px; height:200px; border-radius:80%; object-fit:cover; border:1px solid #384755;"}
+
+<!-- ![](images/mse_side.jpg){fig-align="center" style="width:210px; height:200px; border-radius:80%; object-fit:cover; border:1px solid #384755;"} -->
+<!-- </div> -->

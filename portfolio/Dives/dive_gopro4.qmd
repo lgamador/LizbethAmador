@@ -1,0 +1,13 @@
+---
+title: Dives - Palosvedes
+author: Liz
+image: ../../images/dive_gopro_G1461785.jpg
+description: Digital Work
+categories: [Dives]
+date: 2022-12-22
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/dive_gopro_G1461785.jpg)

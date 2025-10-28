@@ -1,0 +1,13 @@
+---
+title: Intertidal
+author: Liz
+image: ../../images/urchin1_20220715.jpg
+description: Tide Pooling
+categories: [More fun photos!]
+date: 2022-07-15
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urchin1_20220715.jpg)

@@ -1,0 +1,13 @@
+---
+title: Forests
+author: Liz
+image: ../../images/flower2_20230507.jpg
+description: Hiking
+categories: [More fun photos!]
+date: 2023-05-07
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/flower2_20230507.jpg)

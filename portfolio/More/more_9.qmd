@@ -1,0 +1,13 @@
+---
+title: Intertidal
+author: Liz
+image: ../../images/tunicate_20220423.jpg
+description: Tide poling
+categories: [More fun photos!]
+date: 2022-04-23
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/tunicate_20220423.jpg)

@@ -1,0 +1,53 @@
+---
+title: "About Me"
+title-block-banner: images/coast_banner.jpg
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 255px;
+      }
+      /* Change title text color */
+      .quarto-title .title {
+        color: black; /* or your preferred color */
+      }
+      .bottom-banner {
+        background-image: url('images/lupines_banner.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 200px;
+        margin-top: 0.2em;
+      }
+      </style>
+include-after-body:
+  - text: |
+      <div class="bottom-banner"></div>
+---
+## Career Interests
+
+I am interested in the use of long-term monitoring methods towards coastal and terrestrial ecosystems, and spatial-temporal questions. I am experienced with various statistical and geospatial software. I am looking to apply my skills with ecological data and remote sensing to scientific outreach projects!
+
+## Education
+
+**January 2023 - December 2025** \| M.S. Ecology and Environmental Science \| University of Maine, Orono \| [record lab](https://sites.google.com/maine.edu/record-lab)
+
+**August 2017 - May 2022** \| B.S. in Marine Science, minor Statistics \| California State University of Monterey Bay
+
+## Research Experience
+
+**January 2023 - December 2025** \| Graduate Research Assistant \| University of Maine
+
+**January 2023 - December 2024** \| Teaching Assistant \| Department of Wildlife, Fisheries, and Conservation Biology
+
+**June 2022 - December 2022** \| Intern-Researcher \| NSF Geo Bridge Program
+
+## Community Engagement and Service Experience
+
+**Spring 2025** \| Tabling and guided activity \| Meet a Scientist Event - Hirundo Wildlife Refuge, Maine
+
+**Spring 2024 - Spring 2025** \| DEI Leadership Committee \| Dept. Wildlife, Fisheries, and Conservation Biology at U. Maine, Orono
+
+**Summer 2023** \| Invited Webinar Speaker \| [2023 NBPS SRC/Sigma Xi Research Webinar, South Florida](https://youtu.be/ZkCoa0eO6cM?si=05NLHE9zMw4R3VqD&t=162)
+
+**Spring 2022** \| Presenter and guided activity \| CSUMB Makerspace Workshop Series

@@ -1,0 +1,13 @@
+---
+title: Orono Bog - Pitcher sampling
+author: Liz
+image: ../../images/OronoBog_pitchersampling4.jpg
+description: Field work
+categories: [Field photos]
+date: 2023-10-22
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/OronoBog_pitchersampling4.jpg)
