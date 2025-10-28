@@ -4,7 +4,7 @@ author: Liz
 image: ../../images/flyer_makerspace.jpg
 description: Digital Work
 categories: [Outreach - Flyers]
-date: 2022-05-22
+date: 2022-05-03
 format:
   html:
     page-layout: full

@@ -24,6 +24,8 @@ include-after-body:
   - text: |
       <div class="bottom-banner"></div>
 ---
+I have conducted research across different fields and systems, studying ecology along the rocky U.S. west coast and terrestrial plant phenology across the contiguous U.S. I have ventured from the rocky intertidals to the bogs in the North East. I have also attended many local events that showcase academic research to the general public regarding my different research endevours. Check out my career journey and some of my experiece!\
+
 ## Career Interests
 
 I am interested in the use of long-term monitoring methods towards coastal and terrestrial ecosystems, and spatial-temporal questions. I am experienced with various statistical and geospatial software. I am looking to apply my skills with ecological data and remote sensing to scientific outreach projects!
