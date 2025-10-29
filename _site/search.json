@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lizbeth Amador",
-    "section": "",
-    "text": "Hey there, I’m Liz! I am a Chicana from Southern California, with roots from Zacatecas, México. I became interested in ecology while studying abroad in Australia, wading through muddy seagrass beds. My independent research on intertidal purple sea urchins along the Monterey Bay Peninsula fueled my interest in ecological modeling and community dynamics. Recently, I successfully defended my Master’s thesis on the scales of influence on plant phenological responses across the U.S., using open and multi-sourced data.\n\nIn my free time, you can find me entranced by a rock or mushroom, crafting, or free diving."
-  },
-  {
     "objectID": "scicomm.html",
     "href": "scicomm.html",
     "title": "Outreach and Engagement",
@@ -14,18 +7,11 @@
     "text": "“Education is an act of love, and thus an act of courage” - Paulo Freire\n\n\n“Cariño [is] an act of rebellion and healing” - Yvette Regalado\n\nIt is essential to establish connections and trust with local communities to foster engagement with science across various scales of research. Oftentimes, that also means for scientists to engage with the community itself.\n\nCommunity engagement with research and resource management is an important aspect of building resilient ecosystems in the face of rapid global change. In a time where growing misinformation and uncertainty create divisive atmospheres, it is important for scientists to step up and actively bridge gaps between environmental phenomena and common livelihoods. More can be done when communities are well informed and involved. These issues affect ALL of us – only a few can temporarily escape the consequences of degrading ecosystem function and services.\n\nEnvironmental justice is social justice. We can’t help the planet if we don’t help each other.\nLa justicia ambiental es la justicia social. No podemos ayudar la planeta si no podemos ayudar unos a otros.\n\nMy Community Engagement Goal\nGlobal and regional level agencies are important to establish environmental protections and enforcement, but local communities apply these values into daily life.\n\nI aim to strengthen the bridge between ecological research and community livelihood at the local level. I am interested in taking on projects that emphasize community outreach and engagement regarding environmental issues from marine to terrestrial systems. My background in research and across different systems gives me a holistic perspective on the inter-connectedness between the environment and our local communities."
   },
   {
-    "objectID": "LizbethAmador/LizbethAmador.html",
-    "href": "LizbethAmador/LizbethAmador.html",
-    "title": "LizbethAmador",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lizbeth Amador",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "LizbethAmador/LizbethAmador.html#quarto",
-    "href": "LizbethAmador/LizbethAmador.html#quarto",
-    "title": "LizbethAmador",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "Hey there, I’m Liz! I am a Chicana from Southern California, with roots from Zacatecas, México. I became interested in ecology while studying abroad in Australia, wading through muddy seagrass beds. My independent research on intertidal purple sea urchins along the Monterey Bay Peninsula fueled my interest in ecological modeling and community dynamics. Recently, I successfully defended my Master’s thesis on the scales of influence on plant phenological responses across the U.S., using open and multi-sourced data.\n\nIn my free time, you can find me entranced by a rock or mushroom, crafting, or free diving."
   },
   {
     "objectID": "cv.html",
@@ -63,6 +49,13 @@
     "text": "Research Experience\nJanuary 2023 - December 2025 | Graduate Research Assistant | University of Maine\nJune 2022 - December 2022 | Intern-Researcher | NSF Geo Bridge Program | CSUMB"
   },
   {
+    "objectID": "about.html#teaching-mentorship",
+    "href": "about.html#teaching-mentorship",
+    "title": "About Me",
+    "section": "Teaching & Mentorship",
+    "text": "Teaching & Mentorship\nSummer 2025 | NSF-REU Mentor | University of Maine\nJanuary 2023 - December 2024 | Teaching Assistant | Department of Wildlife, Fisheries, and Conservation Biology"
+  },
+  {
     "objectID": "about.html#community-engagement-and-service-experience",
     "href": "about.html#community-engagement-and-service-experience",
     "title": "About Me",
@@ -77,17 +70,24 @@
     "text": "My levels of privileges: I am white-passing Chicana from Southern California. I am a first generation college graduate and second generation immigrant, from Zacatecas, México. My first language is Spanish and I was raised in a predominately immigrant community. I am neurodivergent, left handed, and am able-bodied. I am a renter, have access to a car and public transportation, and am a U.S. citizen. \n\nI acknowledge that there continues to be inequities based on gender, race, ethnicity, sexual orientation, socioeconomic status, age, parental status, disability, or other factors. I also understand that work done to uplift JDEI efforts in STEM should not only rely on BIPOC and historically marginalized groups. Inclusive and diverse spaces requires active work to continuously inform myself on the joys and struggles of minority groups.\n\nIn my career, I aim to foster a diverse, inclusive, and equitable scientific community through safe space and culture creating practices. Additionally, I adopt concepts of indigenous and cariño pedagogues to foster belonging and community.\n\nNative Lands\nCheck your privilege!"
   },
   {
+    "objectID": "LizbethAmador/LizbethAmador.html",
+    "href": "LizbethAmador/LizbethAmador.html",
+    "title": "LizbethAmador",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "LizbethAmador/LizbethAmador.html#quarto",
+    "href": "LizbethAmador/LizbethAmador.html#quarto",
+    "title": "LizbethAmador",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Fun Photos",
     "section": "",
     "text": "Check out some photos of the systems and opportunities that have inspired my career journey! :3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html#teaching-mentorship",
-    "href": "about.html#teaching-mentorship",
-    "title": "About Me",
-    "section": "Teaching & Mentorship",
-    "text": "Teaching & Mentorship\nSummer 2025 | NSF-REU Mentor | University of Maine\nJanuary 2023 - December 2024 | Teaching Assistant | Department of Wildlife, Fisheries, and Conservation Biology"
   }
 ]
