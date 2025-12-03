@@ -6,57 +6,39 @@ title-block-banner: images/wetland-ecol-feld-day.jpg
 include-in-header:
   - text: |
       <style>
-
-      /* --- TOC ("On this page") styling --- */
-      .sidebar .toc-title {
-        font-size: 1rem;
-        font-weight: 600;
-        margin-bottom: .3em;
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
       }
-
-      .sidebar nav[role="doc-toc"] ul {
-        padding-left: 0.5em;
-        margin-top: .4em;
+      
+      /* Background box behind title text */
+      .quarto-title .title {
+        display: inline-block;
+        background-color: rgba(255, 255, 255, 0.6);
+        padding: 0.15em 0.6em;
+        border-radius: 4px;
+        color: black;
+        text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.95);
       }
-
-      .sidebar nav[role="doc-toc"] li {
-        margin-bottom: .3em;
+      
+      .quarto-title .subtitle {
+        display: block;            /* forces subtitle to new line */
+        margin-top: 0.4em;         /* spacing from title */
+        background-color: rgba(255, 255, 255, 0.6);
+        padding: 0.15em 0.6em;
+        border-radius: 4px;
+        color: black;
+        /* Control width + center */
+        max-width: max-content;   /* shrink-wrap to text */
       }
-
-      .sidebar nav[role="doc-toc"] a {
-        text-decoration: none;
-        color: #444;
+      
+      .bottom-banner {
+        background-image: url('images/wetland_sunkhaze-complex_banner.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 200px;
+        margin-top: 0.2em;
       }
-
-      .sidebar nav[role="doc-toc"] a:hover {
-        color: #0072bc;
-      }
-
-      /* --- Category block styling --- */
-      .quarto-category-list h3 {
-        font-size: 1.1rem;
-        margin-top: 1.2em;
-        font-weight: 600;
-      }
-
-      .quarto-category-list ul {
-        list-style: none;
-        padding-left: 0;
-      }
-
-      .quarto-category-list li {
-        margin-bottom: .3em;
-      }
-
-      .quarto-category-list a {
-        text-decoration: none;
-        color: #333;
-      }
-
-      .quarto-category-list a:hover {
-        color: #0085d0;
-      }
-
       </style>
 
 include-after-body:
