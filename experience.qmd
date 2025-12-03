@@ -1,7 +1,7 @@
 ---
 title: "Experience"
 title-block-banner: images/coast_banner.jpg
-
+toc: false
 include-in-header:
   - text: |
         <style>
