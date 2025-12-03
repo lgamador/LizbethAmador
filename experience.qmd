@@ -4,7 +4,7 @@ title-block-banner: images/coast_banner.jpg
 toc: false
 include-in-header:
   - text: |
-        <style>
+      <style>
       .quarto-title-block .quarto-title-banner {
         background-position-y: center;
         height: 255px;
