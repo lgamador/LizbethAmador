@@ -7,16 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About Me
+      - href: experience.qmd
+        text: Experience
       - href: scicomm.qmd
         text: Outreach and Engagement
       - href: dei.qmd
-        text: JDEI
-      - href: cv.qmd
-        text: CV
-      - href: portfolio.qmd
-        text: Portfolio
+        text: JDEI Statement 
+      - href: photography.qmd
+        text: Photography
     tools: 
     - icon: linkedin
       text: LinkedIn
@@ -24,7 +22,7 @@ website:
       target: _blank
     # - favicon: path/icon.svg #icon for website tab 
     - favicon: ./images/orcid_reversed.png
-      text: ORCID
+      text: ORCID text: "{{< fa brands bluesky >}}"
       href: https://orcid.org/0009-0002-7238-1247 
       target: _blank
     - icon: github

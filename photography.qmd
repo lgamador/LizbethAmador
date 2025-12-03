@@ -1,7 +1,9 @@
 ---
 title: "Photography"
+format: html
+editor: visual
 listing:
-  contents: portfolio
+  contents: photography
   type: grid
   image-height: "100%"
   grid-columns: 4
@@ -18,3 +20,8 @@ format:
 ---
 <!-- ## make .qmd for each photo you'd like to have up. Sugestion: make subfolds to organize by category -->
 Check out some photos of the systems and opportunities that have inspired my career journey! :3
+
+
+
+
+
