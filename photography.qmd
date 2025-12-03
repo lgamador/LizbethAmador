@@ -16,6 +16,28 @@ listing:
 format:
   html:
     page-layout: full
+    
+include-in-header:
+  - text: |
+      <style>
+
+      /* --- EVEN, UNIFORM THUMBNAILS FOR LISTING GRIDS --- */
+
+      /* Container for the image */
+      .quarto-grid .quarto-grid-item .thumbnail {
+        aspect-ratio: 1 / 1;  /* change to 4 / 3 or 3 / 2 if preferred */
+        overflow: hidden;
+        border-radius: 6px;   /* optional: rounded corners */
+      }
+
+      /* The image inside the container */
+      .quarto-grid .quarto-grid-item .thumbnail img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;    /* crops to fill the shape evenly */
+      }
+
+      </style>
 ---
 <!-- ## make .qmd for each photo you'd like to have up. Sugestion: make subfolds to organize by category -->
 Check out some photos of the systems and opportunities that have inspired my career journey! :3

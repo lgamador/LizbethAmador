@@ -108,7 +108,8 @@ I aim to strengthen the bridge between ecological research and community livelih
 \
 Lastly, environmental justice is social justice. We can't help the planet if we don't help each other.\
 La justicia ambiental es la justicia social. No podemos ayudar la planeta si no podemos ayudar unos a otros.\
-\
+
+## Portfolio 
 Below are some examples of my science communication and outreach skills, in both acaemic and non-academic settings\
 <!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> -->
 <!-- ![](images/mse_fullshot.jpg){fig-align="left" style="width:210px; height:200px; border-radius:80%; object-fit:cover; border:1px solid #384755;"} -->
