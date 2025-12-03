@@ -2,8 +2,8 @@
 title: Wetlands - Orono Bog, Maine
 author: Liz
 image: ../../images/OB1_20240819.jpg
-description: Hiking
-categories: [More fun photos!]
+description: Rememberance
+categories: [Terrestrial]
 date: 2024-08-19
 format:
   html:

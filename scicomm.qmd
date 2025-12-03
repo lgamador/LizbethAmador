@@ -6,38 +6,57 @@ title-block-banner: images/wetland-ecol-feld-day.jpg
 include-in-header:
   - text: |
       <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 200px;
+
+      /* --- TOC ("On this page") styling --- */
+      .sidebar .toc-title {
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: .3em;
       }
 
-      /* Background box behind title text */
-      .quarto-title .title {
-        display: inline-block;
-        background-color: rgba(255, 255, 255, 0.6);
-        padding: 0.15em 0.6em;
-        border-radius: 4px;
-        color: black;
-        text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.95);
+      .sidebar nav[role="doc-toc"] ul {
+        padding-left: 0.5em;
+        margin-top: .4em;
       }
 
-      .quarto-title .subtitle {
-        display: block;
-        margin-top: 0.4em;
-        background-color: rgba(255, 255, 255, 0.6);
-        padding: 0.15em 0.6em;
-        border-radius: 4px;
-        color: black;
-        max-width: max-content;
+      .sidebar nav[role="doc-toc"] li {
+        margin-bottom: .3em;
       }
 
-      .bottom-banner {
-        background-image: url('images/wetland_sunkhaze-complex_banner.jpg');
-        background-size: cover;
-        background-position: center;
-        height: 200px;
-        margin-top: 0.2em;
+      .sidebar nav[role="doc-toc"] a {
+        text-decoration: none;
+        color: #444;
       }
+
+      .sidebar nav[role="doc-toc"] a:hover {
+        color: #0072bc;
+      }
+
+      /* --- Category block styling --- */
+      .quarto-category-list h3 {
+        font-size: 1.1rem;
+        margin-top: 1.2em;
+        font-weight: 600;
+      }
+
+      .quarto-category-list ul {
+        list-style: none;
+        padding-left: 0;
+      }
+
+      .quarto-category-list li {
+        margin-bottom: .3em;
+      }
+
+      .quarto-category-list a {
+        text-decoration: none;
+        color: #333;
+      }
+
+      .quarto-category-list a:hover {
+        color: #0085d0;
+      }
+
       </style>
 
 include-after-body:
@@ -61,8 +80,6 @@ format:
   html:
     page-layout: full
 ---
-
-
 <p style="text-align: center;">**"Education is an act of love, and thus an act of courage" - Paulo Freire**</p>
 <p style="text-align: center;">**"Cariño \[is\] an act of rebellion and healing" - Yvette Regalado**</p>
 
@@ -90,7 +107,9 @@ Global and regional level agencies are important to establish environmental prot
 I aim to strengthen the bridge between ecological research and community livelihood at the local level. I am interested in taking on projects that emphasize community outreach and engagement regarding environmental issues from marine to terrestrial systems. My background in research and across different systems gives me a holistic perspective on the inter-connectedness between the environment and our local communities.\
 \
 Lastly, environmental justice is social justice. We can't help the planet if we don't help each other.\
-La justicia ambiental es la justicia social. No podemos ayudar la planeta si no podemos ayudar unos a otros. 
+La justicia ambiental es la justicia social. No podemos ayudar la planeta si no podemos ayudar unos a otros.\
+\
+Below are some examples of my science communication and outreach skills, in both acaemic and non-academic settings\
 <!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> -->
 <!-- ![](images/mse_fullshot.jpg){fig-align="left" style="width:210px; height:200px; border-radius:80%; object-fit:cover; border:1px solid #384755;"} -->
 

@@ -3,7 +3,7 @@ title: Dives - Coral St. Monterey Bay
 author: Liz
 image: ../../images/dive_gopro_bullkelp_chomp.jpg
 description: Digital Work
-categories: [Dives]
+categories: [Uderwa]
 date: 2022-08-15
 format:
   html:

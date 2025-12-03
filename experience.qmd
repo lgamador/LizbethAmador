@@ -5,24 +5,93 @@ title-block-banner: images/coast_banner.jpg
 include-in-header:
   - text: |
       <style>
-      .quarto-title-block .quarto-title-banner {
-        background-position-y: center;
-        height: 255px;
+
+      /* ----------------------------------------------------
+         CLEAN SIDEBAR: TOC ("On this page")
+         ---------------------------------------------------- */
+
+      /* Title above the TOC */
+      .sidebar .toc-title {
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: .4em;
+        color: #222;
       }
-      
-      /* Change title text color */
-      .quarto-title .title {
-        color: black;
-        text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.95);
+
+      /* TOC list spacing */
+      .sidebar nav[role="doc-toc"] ul {
+        padding-left: 0.6em;
+        margin-top: 0.3em;
       }
-      
-      .bottom-banner {
-        background-image: url('images/lupines_banner.jpg');
-        background-size: cover;
-        background-position: center;
-        height: 200px;
-        margin-top: 0.2em;
+
+      .sidebar nav[role="doc-toc"] li {
+        margin-bottom: .3em;
       }
+
+      /* TOC links */
+      .sidebar nav[role="doc-toc"] a {
+        text-decoration: none;
+        color: #424242;
+      }
+
+      .sidebar nav[role="doc-toc"] a:hover {
+        color: #0077b6;
+      }
+
+      /* Remove thick left border on active item */
+      .sidebar .toc-active {
+        border-left: 2px solid #0090d0 !important;
+        padding-left: .35em;
+      }
+
+
+      /* ----------------------------------------------------
+         CATEGORIES BLOCK
+         ---------------------------------------------------- */
+
+      .quarto-category-list h3 {
+        font-size: 1.05rem;
+        margin-top: 1.2em;
+        margin-bottom: .4em;
+        font-weight: 600;
+      }
+
+      /* Remove bullets */
+      .quarto-category-list ul {
+        list-style: none;
+        padding-left: 0;
+      }
+
+      .quarto-category-list li {
+        margin-bottom: .3em;
+      }
+
+      /* Category links */
+      .quarto-category-list a {
+        text-decoration: none;
+        color: #333;
+      }
+
+      .quarto-category-list a:hover {
+        color: #0096c7;
+      }
+
+
+      /* ----------------------------------------------------
+         GRID LISTING CLEANUP
+         ---------------------------------------------------- */
+
+      /* Prevent overly wide item spacing */
+      .quarto-grid-item {
+        margin-bottom: 1.1em !important;
+      }
+
+      /* Optional: subtle hover effect */
+      .quarto-grid-item:hover {
+        transform: translateY(-2px);
+        transition: all 0.15s ease;
+      }
+
       </style>
 
 include-after-body:
@@ -70,4 +139,4 @@ I have conducted research across different fields and systems, studying marine e
 ## CV 
 [Download CV](./docs/LAmador_CV_2025.pdf){target="_blank" rel="noopener"}
 \
-<embed title="CV" src="pdfs/LAmador_CV_2025.pdf" width="100%" height="400px" />
+\

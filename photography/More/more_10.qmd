@@ -2,8 +2,8 @@
 title: Intertidal
 author: Liz
 image: ../../images/urchin1_20220423.jpg
-description: Tide pooling
-categories: [More fun photos!]
+description: Purple urchin
+categories: [Above water]
 date: 2022-04-23
 format:
   html:

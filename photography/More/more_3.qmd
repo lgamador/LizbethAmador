@@ -3,7 +3,7 @@ title: Intertidal
 author: Liz
 image: ../../images/limpet_20220423.jpg
 description: Tide pooling
-categories: [More fun photos!]
+categories: [Above water]
 date: 2022-04-23
 format:
   html:

@@ -2,8 +2,8 @@
 title: Intertidal
 author: Liz
 image: ../../images/intertidal-kelp_20220715.jpg
-description: Tide pooling
-categories: [More fun photos!]
+description: Algal Smorgasbord
+categories: [Above water]
 date: 2022-07-15
 format:
   html:

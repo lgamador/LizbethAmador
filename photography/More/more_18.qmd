@@ -2,8 +2,8 @@
 title: Wetlands
 author: Liz
 image: ../../images/flower3_20230507.jpg
-description: Hiking
-categories: [More fun photos!]
+description: Leatherleaf flowers (<i>Chamaedaphne calyculata</i>)
+categories: [Terrestrial]
 date: 2023-05-07
 format:
   html:

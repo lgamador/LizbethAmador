@@ -2,8 +2,8 @@
 title: Intertidal
 author: Liz
 image: ../../images/intertidal_20221028.jpg
-description: Tide pooling
-categories: [More fun photos!]
+description: Tide pool
+categories: [Above water]
 date: 2022-10-28
 format:
   html:

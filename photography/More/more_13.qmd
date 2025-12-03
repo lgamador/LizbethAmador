@@ -2,8 +2,8 @@
 title: Intertidal
 author: Liz
 image: ../../images/urchin3_20220715.jpg
-description: Tide Pooling
-categories: [More fun photos!]
+description: Mussels, urchins and kelp, oh my!
+categories: [Above water]
 date: 2022-07-15
 format:
   html:

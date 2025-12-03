@@ -8,7 +8,7 @@ include-in-header:
         background-size: cover;
         background-position: center;
         height: 200px;
-        margin-top: 0.2em;
+        margin-top: 0.0em;
       }
       </style>
 include-after-body:
@@ -21,4 +21,4 @@ I acknowledge that there continues to be inequities based on gender, race, ethni
 In my career, I aim to foster a diverse, inclusive, and equitable scientific community through safe space and culture creating practices. Additionally, I adopt concepts of [indigenous](https://operations.du.edu/inclusive-teaching/native-american-pedagogies){target="_blank" rel="noopener"} and [cariño](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1096&context=ctlle){target="_blank" rel="noopener"} pedagogues to foster belonging and community.\
 
 [Native Lands](https://native-land.ca/){target="_blank" rel="noopener"}\
-[Check your privilege!](https://just1voice.com/advocacy/wheel-of-privilege/){target="_blank" rel="noopener"}\
+[Check your privilege!](https://just1voice.com/advocacy/wheel-of-privilege/){target="_blank" rel="noopener"}

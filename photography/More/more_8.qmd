@@ -3,7 +3,7 @@ title: Intertidal
 author: Liz
 image: ../../images/snail_20220423.jpg
 description: Tide Pooling
-categories: [More fun photos!]
+categories: [Above water]
 date: 2022-04-23
 format:
   html:
