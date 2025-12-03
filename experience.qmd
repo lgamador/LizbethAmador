@@ -1,6 +1,7 @@
 ---
 title: "Experience"
 title-block-banner: images/coast_banner.jpg
+
 include-in-header:
   - text: |
       <style>
@@ -11,7 +12,7 @@ include-in-header:
       
       /* Change title text color */
       .quarto-title .title {
-        color: black; /* or your preferred color */
+        color: black;
         text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.95);
       }
       
@@ -23,12 +24,11 @@ include-in-header:
         margin-top: 0.2em;
       }
       </style>
+
 include-after-body:
   - text: |
       <div class="bottom-banner"></div>
 
-format: html
-editor: visual
 listing:
   contents: experience_in_action
   type: grid
@@ -37,13 +37,16 @@ listing:
   page-size: 20
   grid-item-border: false
   fields: [image]
-  sort-ui: [date,categories]
+  sort-ui: [date, categories]
   categories: true
   sort:
     - "date desc"
+
 format:
   html:
     page-layout: full
+
+editor: visual
 ---
 
 ## Career Interests
