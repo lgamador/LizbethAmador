@@ -106,93 +106,24 @@ background-size: cover;
       }
 </style>
 <style>
-
-/* ----------------------------------------------------
-   CLEAN SIDEBAR: TOC ("On this page")
-   ---------------------------------------------------- */
-
-/* Title above the TOC */
-.sidebar .toc-title {
-  font-size: 1rem;
-  font-weight: 600;
-  margin-bottom: .4em;
-  color: #222;
+.quarto-title-block .quarto-title-banner {
+  background-position-y: center;
+  height: 255px;
 }
 
-/* TOC list spacing */
-.sidebar nav[role="doc-toc"] ul {
-  padding-left: 0.6em;
-  margin-top: 0.3em;
+/* Change title text color */
+.quarto-title .title {
+  color: black; /* or your preferred color */
+  text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.95);
 }
 
-.sidebar nav[role="doc-toc"] li {
-  margin-bottom: .3em;
+.bottom-banner {
+  background-image: url('images/lupines_banner.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  margin-top: 0.2em;
 }
-
-/* TOC links */
-.sidebar nav[role="doc-toc"] a {
-  text-decoration: none;
-  color: #424242;
-}
-
-.sidebar nav[role="doc-toc"] a:hover {
-  color: #0077b6;
-}
-
-/* Remove thick left border on active item */
-.sidebar .toc-active {
-  border-left: 2px solid #0090d0 !important;
-  padding-left: .35em;
-}
-
-
-/* ----------------------------------------------------
-   CATEGORIES BLOCK
-   ---------------------------------------------------- */
-
-.quarto-category-list h3 {
-  font-size: 1.05rem;
-  margin-top: 1.2em;
-  margin-bottom: .4em;
-  font-weight: 600;
-}
-
-/* Remove bullets */
-.quarto-category-list ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.quarto-category-list li {
-  margin-bottom: .3em;
-}
-
-/* Category links */
-.quarto-category-list a {
-  text-decoration: none;
-  color: #333;
-}
-
-.quarto-category-list a:hover {
-  color: #0096c7;
-}
-
-
-/* ----------------------------------------------------
-   GRID LISTING CLEANUP
-   ---------------------------------------------------- */
-
-/* Prevent overly wide item spacing */
-.quarto-grid-item {
-  margin-bottom: 1.1em !important;
-}
-
-/* Optional: subtle hover effect */
-.quarto-grid-item:hover {
-  transform: translateY(-2px);
-  transition: all 0.15s ease;
-}
-
 </style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -298,16 +229,6 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#career-interests" id="toc-career-interests" class="nav-link active" data-scroll-target="#career-interests">Career Interests</a></li>
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
-  <li><a href="#research-experience" id="toc-research-experience" class="nav-link" data-scroll-target="#research-experience">Research Experience</a></li>
-  <li><a href="#cv" id="toc-cv" class="nav-link" data-scroll-target="#cv">CV</a></li>
-  </ul>
-</nav>
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="RmllbGQlMjBwaG90b3M=">Field photos <span class="quarto-category-count">(8)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
